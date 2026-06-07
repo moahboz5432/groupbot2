@@ -1,0 +1,13 @@
+{
+  "name": "groupbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "readline": "latest"
+  }
+}
